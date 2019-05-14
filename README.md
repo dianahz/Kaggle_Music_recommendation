@@ -3,7 +3,7 @@ Kaggle_challenge at https://www.kaggle.com/c/kkbox-music-recommendation-challeng
 
 Description/Motivation:
 
-To buld a music recommendation system 
+To build a music recommendation system 
 
 Background:
 
